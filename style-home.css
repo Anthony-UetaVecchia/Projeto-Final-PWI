@@ -1,0 +1,41 @@
+.cabecalho {
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
+}
+
+html {
+    /*colors: 
+	13293D
+	006494
+	247BA0
+	1B98E0
+	E8F1F2
+	1B98E0
+	00BFFF
+	87CEFA
+	00008B
+	C1C1C1*/
+    background: #c1c1c1;
+    padding: 20px 0;
+}
+
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+}
+
+nav a {
+    text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none;
+}
+
+nav a:hover {
+	color: #C78C19;
+	text-decoration: underline;
+}
