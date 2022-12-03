@@ -1,12 +1,3 @@
-.cabecalho {
-	position: relative;
-	width: 100%;
-	height: 75px;
-	margin: 0 0 20px 0;
-	background: #247BA0;
-	
-}
-
 html {
     /*colors: 
 	13293D
@@ -21,6 +12,21 @@ html {
     background: #247BA0;
     padding: 0 0 20px 0;
 	max-width: 100%;
+}
+
+.cabecalho {
+	position: relative;
+	width: 100%;
+	height: 75px;
+	margin: 0 0 20px 0;
+	background: #247BA0;
+	
+}
+
+.conteudo {
+	border: #000000 solid;
+	border-width: 10px;
+	margin: 0 300px;
 }
 
 ul {
