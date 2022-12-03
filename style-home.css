@@ -83,20 +83,12 @@ nav li {
 	/*border: 15px solid #247BA0;*/
 }
 
-.title{
-	text-align: center;
-	margin-left: 100px;
-	font-size: 50px;
-	font-family: Georgia;
-	font-size: 20px;
-}
-
 .text {
-	color: darkgreen;	
+	color: rgb(101, 0, 168);	
 	text-align: justify;
-	margin-left: 10px;
 	font-family: Georgia;
 	margin: 20px;
+<<<<<<< HEAD
 }
 
 .rodape {
@@ -106,3 +98,20 @@ nav li {
 	margin: 0 0 20px 0;
 	background: #247BA0;
 }
+=======
+	font-size: 21px;
+}
+
+.title{
+	text-align: center;
+	font-style: oblique;
+	font-weight: bold;
+	font-size: 40px;
+}
+e agr?
+n sei mais o que fazer
+mano, lembra no tcc, então, leembra do bagulho que o gabriel mostrou de JavaScript que ficava descendo um bagulho e subindo, exatamente
+então, no rodapé, a gente faz o bagulho que sobe e desce com os nossos githubs
+só ele aparecer
+e já, que a gente ainda n usou JS, nós podemos fazer isso para termos as 3 linguagens
+>>>>>>> d9a7d00abd60eabc353ee8c91422b19f1fa27510
