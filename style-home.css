@@ -85,13 +85,14 @@ nav li {
 .title{
 	text-align: center;
 	margin-left: 100px;
-	style= "font-family:Georgia;"
-	font-size: 100px
-
+	font-family: Georgia;
+	font-size: 20px;
 }
 
-.text {	
-	text-align: center;
-	margin-left: 100px
-	style="Georgia"
+.text {
+	color: darkgreen;	
+	text-align: justify;
+	margin-left: 10px;
+	font-family: Georgia;
+	margin: 20px;
 }
