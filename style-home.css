@@ -27,6 +27,7 @@ html {
 	border: #000000 solid;
 	border-width: 10px;
 	margin: 0 300px;
+	background: #247BA0;
 }
 
 ul {
@@ -85,8 +86,7 @@ nav li {
 .title{
 	text-align: center;
 	margin-left: 100px;
-	style= "font-family:Georgia;"
-	font-size: 100px
+	font-size: 50px;
 
 }
 
