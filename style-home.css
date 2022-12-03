@@ -81,3 +81,17 @@ nav li {
   	z-index: -2;
 	/*border: 15px solid #247BA0;*/
 }
+
+.title{
+	text-align: center;
+	margin-left: 100px;
+	style= "font-family:Georgia;"
+	font-size: 100px
+
+}
+
+.text {	
+	text-align: center;
+	margin-left: 100px
+	style="Georgia"
+}
