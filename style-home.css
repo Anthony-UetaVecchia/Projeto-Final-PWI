@@ -100,7 +100,7 @@ footer {
 	justify-content: center;
 	background-color: #000000;
 	width: auto;
-	margin-top: 170px;	
+	margin-top: 170px;
 }
 
 footer ul {
@@ -112,7 +112,7 @@ footer ul li {
 	position: relative;
 	justify-content: center;
 	list-style: none;
-	margin: 0 125px;
+	margin: 0 200px;
 	cursor: pointer;
 }
 
@@ -121,7 +121,7 @@ footer ul li a {
 }
 
 footer ul li a .fa-brands {
-	font-size: 6em;
+	font-size: 96px;
 	color: #222;
 }
 
@@ -130,31 +130,38 @@ footer ul li::before {
 	position: absolute;
 	top: 0;
 	left: 0;
-	font-size: 6em;
+	font-size: 96px;
 	height: 0;
 	overflow: hidden;
 	transition: 0.5s ease-in-out;
 }
 
 footer ul li:nth-child(1)::before {
-	content: "\f16d";
-	background-image: linear-gradient(45deg, #f09433 0%, #E6683C 25%, #DC2743 50%, #CC2366 75%, #BC1888 100%);
+	content: "\f09b";
+	background-image: linear-gradient(45deg, #662d91 0%, #720e9e 25%, #452c63 50%, #33006F 75%, #1d1160 100%);
 	background-clip: text;
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
-	border-bottom: 4px solid #DC2743;
+	border-bottom: 4px solid #720e9e;
 }
 
 footer ul li:nth-child(2)::before {
-	content: "\f232";
-	color: #25D366;
-	border-bottom: 4px solid #25D366;
+	content: "\f09b";
+	background-image: linear-gradient(45deg, #FA8128 0%, #ED7117 25%, #ED7014 50%, #FC6A03 75%, #DD571C 100%);
+	background-image: linear-gradient(45deg, #FFAE42 0%, #FF8C00 25%, #FF6700 50%, #FF4500 75%, #C0362C 100%);
+	background-clip: text;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	border-bottom: 4px solid #FF8C00;
 }
 
 footer ul li:nth-child(3)::before {
-	content: "\f099";
-	color: #1DA1F2;
-	border-bottom: 4px solid #1DA1F2;
+	content: "\f09b";
+	background-image: linear-gradient(45deg, #662d91 0%, #720e9e 25%, #452c63 50%, #33006F 75%, #1d1160 100%);
+	background-clip: text;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	border-bottom: 4px solid #720e9e;
 }
 
 footer ul li:hover::before {
