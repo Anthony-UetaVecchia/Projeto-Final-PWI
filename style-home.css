@@ -167,3 +167,19 @@ footer ul li:nth-child(3)::before {
 footer ul li:hover::before {
 	height: 100%;
 }
+
+.fases {
+	margin: 35px auto auto auto;
+	width: 700px;
+	height: 300px;
+	display: flex;
+	border: 5px solid #000000;
+}
+
+.buttons {
+	margin: 35px auto auto auto;
+	width: 100px;
+	height: 30px;
+	display: inline-block;
+}
+
