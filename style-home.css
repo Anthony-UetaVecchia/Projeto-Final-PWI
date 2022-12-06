@@ -203,3 +203,4 @@ footer ul li:hover::before {
 	display: flex;
 	border: 5px solid #ffffff;
 	align-self: flex-end;
+}
